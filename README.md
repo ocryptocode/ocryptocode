@@ -13,7 +13,7 @@ I am currently working at a project that is hosted on github and also I learn di
 
 ## 🚀 Projects
 
-### Personal Pay Hub
+### Personal Pay Hub (PPH)
 It is a project or a program that can interpret queries and classify financial data .
 
 It is created with some AI models and data manipulation packages .
@@ -22,7 +22,7 @@ It is an effective and efficient way to keep updated with financial information 
 
 here is the link to the repository : https://github.com/ocryptocode/PPH  and make sure to check all the branches
 additionally here is the link to the project's website : https://ocryptocode.github.io/PPH
-
+and here is the link to the discord server of PPH : https://discord.gg/xypBVTUZ
 
 Feel free to reach out and connect!
 
