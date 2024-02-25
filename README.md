@@ -20,7 +20,8 @@ It is created with some AI models and data manipulation packages .
 
 It is an effective and efficient way to keep updated with financial information (transactions , payments , monthly fees ...) 
 
-here is the link to the repository : https://github.com/ocryptocode/PPH
+here is the link to the repository : https://github.com/ocryptocode/PPH  and make sure to check all the branches
+additionally here is the link to the project's website : https://ocryptocode.github.io/PPH
 
 
 Feel free to reach out and connect!
