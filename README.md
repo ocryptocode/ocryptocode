@@ -1,8 +1,6 @@
 # Hi there! 👋
 
-  I'm @ocryptocode, a passionate software developer and programmer  from Morocco.
-
-Twitter : @OussamaRafouk 
+  I'm @OussamaRafouk, a passionate software developer and programmer  from Morocco.
 
 ## 🔧 Technologies & Tools
 
@@ -25,6 +23,8 @@ It is an effective and efficient way to keep updated with financial information 
 here is the link to the repository : https://github.com/ocryptocode/PPH  and make sure to check all the branches
 additionally here is the link to the project's website : https://ocryptocode.github.io/PPH
 and here is the link to the discord server of PPH : https://discord.gg/xypBVTUZ
+
+And many more projects to come!
 
 Feel free to reach out and connect!
 
