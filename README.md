@@ -6,7 +6,9 @@
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** -Python - HTML - Java
-- **Web Technologies:** - web hosting - database systems - web development frameworks - HTML - web browsers - web servers 
+- 
+- **Web Technologies:** - web hosting - database systems - web development frameworks - HTML - web browsers - web servers
+- 
 - **Tools & Frameworks:** - Flask - spring boot -Django
 
 ## 🌱 Currently Learning
