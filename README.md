@@ -2,7 +2,7 @@
 
   I'm @OussamaRafouk, a passionate software developer and programmer  from Morocco.
 
-newsletter : https://oussamas-newsletter-d92095.beehiiv.com/
+Join my newsletter for free for valuable insights and offers : https://oussamas-newsletter-d92095.beehiiv.com/
 
 
 ## 🔧 Technologies & Tools
