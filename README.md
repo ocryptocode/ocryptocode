@@ -7,11 +7,11 @@ Join my newsletter for free for valuable insights and offers : https://oussamas-
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** -Python - HTML - Java - JavaScript- CSS - React
+- **Programming Languages:** -Python - HTML - Java - JavaScript- CSS.
 - 
 - **Web Technologies:** - web hosting - database systems - web development frameworks - HTML - web browsers - web servers
 - 
-- **Tools & Frameworks:** - Flask - spring boot -Django
+- **Tools & Frameworks:** - Flask - spring boot -Django -React.js - Node.js
 
 ## 🌱 Currently Learning
 I am currently working at a project that is hosted on github and also I learn different skills to improve myself at coding and programming
