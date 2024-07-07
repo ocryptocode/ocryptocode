@@ -7,7 +7,7 @@ Join my newsletter for free for valuable insights and offers : https://oussamas-
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** -Python - HTML - Java - JavaScript- CSS.
+- **Programming Languages:** -Python - Java - JavaScript- CSS.
 - 
 - **Web Technologies:** - web hosting - database systems - web development frameworks - HTML - web browsers - web servers
 - 
