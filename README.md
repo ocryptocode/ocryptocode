@@ -21,17 +21,29 @@ I am currently working at a project that is hosted on github and also I learn di
 ### Personal Pay Hub (PPH)
 It is a project or a program that can interpret queries and classify financial data .
 
-It is created with some AI models and data manipulation packages .
+It is created using some AI models and data manipulation packages .
 
 It is an effective and efficient way to keep updated with financial information (transactions , payments , monthly fees ...) 
 
 here is the link to the repository : https://github.com/ocryptocode/PPH  and make sure to check all the branches
-additionally here is the link to the project's website : https://ocryptocode.github.io/PPH
 and here is the link to the discord server of PPH : https://discord.gg/xypBVTUZ
 
 And many more projects to come!
 
 Feel free to reach out and connect!
+
+### Crypto Price Tracker
+it's a platform that tracks all of crypto prices movement in real time.
+
+It is created using Python , Flask and Coinmarketcap API key.
+
+It is a great way to keep track of all updates in cryptocurrency.
+
+Here is the link to the repository : https://github.com/ocryptocode/crypto-price-tracker.
+
+### For more projects check out the repositories that are in my profile ###
+Stay tuned !!!
+
 
 ## 🤝 Open to Collaboration
 
