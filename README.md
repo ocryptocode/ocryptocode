@@ -42,7 +42,7 @@ It is a great way to keep track of all updates in cryptocurrency.
 Here is the link to the repository : https://github.com/ocryptocode/crypto-price-tracker.
 
 
-my finished works are https://github.com/ocryptocode/HTML-templates
+my finished works are https://github.com/ocryptocode/HTML-Templates and https://github.com/ocryptocode/crypto-price-tracker
 
 ### For more projects check out the repositories that are in my profile ###
 Stay tuned !!!
