@@ -1,6 +1,12 @@
 # Hi there! 👋
 
-  I'm @OussamaRafouk, a passionate software developer and programmer  from Morocco.
+I'm @OussamaRafouk, based in Morocco.
+
+I am a web3 founder , ambassador , community builder , marketer and a passionate developer.
+
+I am the Jack of all Trades , my weapon is the multifaceted mind.
+
+I use that to make a whole lotta innovations.
 
 Join my newsletter for free for valuable insights and offers : https://oussamas-newsletter-d92095.beehiiv.com/
 
@@ -8,9 +14,9 @@ Join my newsletter for free for valuable insights and offers : https://oussamas-
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** -Python - Java - JavaScript- CSS.
-- 
+  
 - **Web Technologies:** - web hosting - database systems - web development frameworks - HTML - web browsers - web servers
-- 
+  
 - **Tools & Frameworks:** - Flask - spring boot -Django -React.js - Node.js
 
 ## 🌱 Currently Learning
