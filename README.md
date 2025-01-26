@@ -17,7 +17,9 @@ Join my newsletter for free for valuable insights and offers : https://oussamas-
 I am currently working at a project that is hosted on github and also I learn different skills to improve myself at coding and programming
 
 ## 🚀 Projects
+### the multifaceted mind
 
+### VORTEX
 ### Personal Pay Hub (PPH)
 It is a project or a program that can interpret queries and classify financial data .
 
