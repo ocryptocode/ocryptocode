@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm @OussamaRafouk, based in Morocco.
+I'm Oussama Rafouk, based in Morocco.
 
 I am a web3 founder , ambassador , community builder , marketer and a passionate developer.
 
