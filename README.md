@@ -4,7 +4,7 @@ I'm Oussama Rafouk, based in Morocco.
 
 I am a web3 founder , ambassador , community builder , marketer and a passionate developer.
 
-I am the Jack of all Trades , my weapon is the multifaceted mind.
+Simply the Jack of all Trades , my weapon is the multifaceted mind.
 
 I use that to make a whole lotta innovations.
 
@@ -19,8 +19,6 @@ Join my newsletter for free for valuable insights and offers : https://oussamas-
   
 - **Tools & Frameworks:** - Flask - spring boot -Django -React.js - Node.js
 
-## 🌱 Currently Learning
-I am currently working at a project that is hosted on github and also I learn different skills to improve myself at coding and programming
 
 ## 🚀 Projects
 ### the multifaceted mind
@@ -53,14 +51,6 @@ Here is the link to the repository : https://github.com/ocryptocode/crypto-price
 my finished works are https://github.com/ocryptocode/HTML-Templates and https://github.com/ocryptocode/crypto-price-tracker
 
 ### For more projects check out the repositories that are in my profile ###
+
 Stay tuned !!!
-
-
-## 🤝 Open to Collaboration
-
-I'm open to collaborating on projects or discussing interesting ideas. If you have something in mind, let's chat!
-
-And feel free to reach out and connect!
-
-Thanks for visiting my profile! 😊
 
