@@ -1,4 +1,4 @@
-# Hi there! 👋
+# GM
 
 I'm Oussama Rafouk
 
