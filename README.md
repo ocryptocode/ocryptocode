@@ -47,6 +47,11 @@ It is a great way to keep track of all updates in cryptocurrency.
 
 Here is the link to the repository : https://github.com/ocryptocode/crypto-price-tracker.
 
+### Design templates
+It's a great way to leverage existing designs to create your own.
+
+https://github.com/Design-Templates
+
 
 my finished works are https://github.com/ocryptocode/HTML-Templates and https://github.com/ocryptocode/crypto-price-tracker
 
