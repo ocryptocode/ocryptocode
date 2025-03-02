@@ -1,6 +1,6 @@
 # GM
 
-I'm Oussama Rafouk
+My name is Oussama Rafouk
 
 I am a web3 founder , ambassador , community builder , marketer and a passionate developer.
 
