@@ -1,8 +1,8 @@
-# GM web3 fam
+# GM 
 
 My name is Oussama Rafouk
 
-I am a web3 founder , ambassador , community builder , marketer and a passionate developer.
+I am CEO of https://x.com/vortex_capital_ , ambassador , community builder , marketer and a passionate developer.
 
 Simply the Jack of all Trades , my weapon is the multifaceted mind.
 
