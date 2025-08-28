@@ -1,5 +1,3 @@
-# GM 
-
 My name is Oussama Rafouk
 
 I am CEO of https://x.com/vortex_capital_ , ambassador , community builder , marketer and a passionate developer.
