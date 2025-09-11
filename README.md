@@ -1,4 +1,4 @@
-I am CEO of https://x.com/vortex_capital_ , ambassador , community builder , a marketer.
+I am CEO of https://x.com/vortex_capital_ , ambassador , community builder.
 
 My only goal is to give value.
 
