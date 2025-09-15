@@ -2,8 +2,6 @@ I am CEO of https://x.com/vortex_capital_ , ambassador , community builder.
 
 My only goal is to give value.
 
-Hence discussed on my resume : https://onedrive.live.com/personal/2d73b0d14ca072f5/_layouts/15/Doc.aspx?sourcedoc=%7B7bb1636d-9c26-4c63-ac3e-40db8f15d28c%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy8yZDczYjBkMTRjYTA3MmY1L0VXMWpzWHNtbkdOTXJENUEyNDhWMG93QlVmVWFnaGNEM2ZxWTdBY2M2V1lOQlE_ZT1sT25SdHM&slrid=d01d84a1-20ce-b000-dbe5-e1a6f16c2293&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy8yZDczYjBkMTRjYTA3MmY1L0VXMWpzWHNtbkdOTXJENUEyNDhWMG93QlVmVWFnaGNEM2ZxWTdBY2M2V1lOQlE_cnRpbWU9ZjJ5SXk0eFQzVWc&CID=a1a697e7-1377-417d-8db2-8f7d59042295&_SRM=0:G:182
-
 Join my newsletter for free for valuable insights and offers : https://oussamas-newsletter-d92095.beehiiv.com/
 
 
