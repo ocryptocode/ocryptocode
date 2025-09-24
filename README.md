@@ -1,7 +1,5 @@
 I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
 
-Join my newsletter for free for valuable insights and offers : https://oussamas-newsletter-d92095.beehiiv.com/
-
 
 ## 🔧 Technologies & Tools
 
