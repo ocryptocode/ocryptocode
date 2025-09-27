@@ -43,10 +43,12 @@ Design templates for your projects.
 https://github.com/Design-Templates
 
 
-## web3 skills
+## skills
 - connecting projects
 - adding value
 - growing audience
+- making platforms and teams
 
-my finished works are https://github.com/ocryptocode/HTML-Templates and https://github.com/ocryptocode/crypto-price-tracker
+my finished works are :
+- https://github.com/ocryptocode/crypto-price-tracker
 
