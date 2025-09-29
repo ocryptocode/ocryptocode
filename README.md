@@ -1,13 +1,6 @@
 I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
 
 
-## 🔧 Technologies & Tools
-
-- **Programming Languages:** -Python - Java - JavaScript- CSS.
-  
-- **Web Technologies:** - web hosting - database systems - web development frameworks - HTML - web browsers - web servers
-  
-- **Tools & Frameworks:** - Flask - spring boot -Django -React.js - Node.js
 
 
 ## 🚀 Projects
