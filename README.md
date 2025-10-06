@@ -1,11 +1,5 @@
 I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
 
-
-
-
-## 🚀 Projects
-### the multifaceted mind
-
 ### VORTEX
 ### Personal Pay Hub (PPH)
 It is a project or a program that can interpret queries and classify financial data .
