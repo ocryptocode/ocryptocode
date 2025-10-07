@@ -4,11 +4,13 @@ I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
 ### Personal Pay Hub (PPH)
 It is a project or a program that can interpret queries and classify financial data .
 
-It is created using some AI models and data manipulation packages .
+It is created using some AI models and data manipulation packages.
 
 It is an effective and efficient way to keep updated with financial information (transactions , payments , monthly fees ...) 
 
-here is the link to the repository : https://github.com/ocryptocode/PPH  and make sure to check all the branches
+here is the link to the repository : https://github.com/ocryptocode/PPH 
+
+make sure to check all the branches
 and here is the link to the discord server of PPH : https://discord.gg/xypBVTUZ
 
 And many more projects to come!
