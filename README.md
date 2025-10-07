@@ -10,9 +10,6 @@ It is an effective and efficient way to keep updated with financial information 
 
 here is the link to the repository : https://github.com/ocryptocode/PPH 
 
-make sure to check all the branches
-and here is the link to the discord server of PPH : https://discord.gg/xypBVTUZ
-
 And many more projects to come!
 
 Feel free to reach out and connect!
