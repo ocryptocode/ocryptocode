@@ -34,7 +34,3 @@ https://github.com/Design-Templates
 - adding value
 - growing audience
 - making platforms and teams
-
-my finished works are :
-- https://github.com/ocryptocode/crypto-price-tracker
-
