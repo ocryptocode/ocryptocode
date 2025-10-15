@@ -1,7 +1,7 @@
 I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
 
 ### VORTEX
-### Personal Pay Hub (PPH)
+### PPH
 It is a program that can interpret queries and classify financial data
 
 It is created using some AI models and data manipulation packages.
