@@ -36,4 +36,4 @@ https://github.com/Design-Templates
 - making platforms and teams
 
 
-see you on the builders forge
+see you soon
