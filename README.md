@@ -10,7 +10,7 @@ It is an effective and efficient way to keep updated with financial information 
 
 here is the link to the repository : https://github.com/ocryptocode/PPH 
 
-And many more projects to come!
+And many more projects to come
 
 ### Crypto Price Tracker
 it's a platform that tracks all of crypto prices movement in real time.
