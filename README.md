@@ -13,7 +13,7 @@ here is the link: https://github.com/ocryptocode/PPH
 And many more projects to come
 
 ### Crypto Price Tracker
-it's a platform that tracks all of crypto prices movement in real time.
+ platform that tracks all of crypto prices movement in real time.
 
 It is created using Python , Flask and Coinmarketcap API key.
 
