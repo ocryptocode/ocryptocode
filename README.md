@@ -6,7 +6,7 @@ It is a program that can interpret queries and classify financial data
 
 It is created using some AI models and data manipulation packages.
 
-It is an effective and efficient way to keep updated with financial information (transactions , payments , monthly fees ...) 
+It is an effective and efficient way to keep updated with financial information 
 
 here is the link: https://github.com/ocryptocode/PPH 
 
