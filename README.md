@@ -2,7 +2,7 @@ I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
 
 ### VORTEX
 ### PPH
-It is a program that can interpret queries and classify financial data
+an app that can interpret queries and classify financial data
 
 It is created using some AI models and data manipulation packages.
 
