@@ -4,11 +4,11 @@ I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
 ### PPH
 an app that can interpret queries and classify financial data
 
-It is created using some AI models and data manipulation packages.
+It is created using some AI models and data manipulation packages
 
 It is an effective and efficient way to keep updated with financial information 
 
-here is the link: https://github.com/ocryptocode/PPH 
+here is the link https://github.com/ocryptocode/PPH 
 
 And many more projects to come
 
