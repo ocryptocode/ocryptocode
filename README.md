@@ -7,7 +7,7 @@ an app that can interpret queries and classify financial data
 
 It is an effective and efficient way to keep updated with financial information 
 
-here is the link https://github.com/ocryptocode/PPH 
+https://GitHub.com/PPH
 
 And many more projects to come
 
