@@ -7,9 +7,6 @@ an app that can interpret queries and classify financial data
 
 It is an effective and efficient way to keep updated with financial information 
 
-https://GitHub.com/PPH
-
-And many more projects to come
 
 ### Crypto Price Tracker
  platform that tracks all of crypto prices movement in real time.
@@ -22,6 +19,8 @@ Here is the link to the repository : https://github.com/ocryptocode/crypto-price
 Design templates for your projects.
 
 https://github.com/Design-Templates
+
+### VORTEX
 
 
 ## skills
