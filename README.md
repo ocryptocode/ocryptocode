@@ -4,9 +4,7 @@ I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
 ### PPH
 an app that can interpret queries and classify financial data
 
-
 It is an effective and efficient way to keep updated with financial information 
-
 
 ### Crypto Price Tracker
  platform that tracks all of crypto prices movement in real time.
