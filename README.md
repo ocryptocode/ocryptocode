@@ -24,6 +24,8 @@ an ecosystem of Crypto making many deals and events 🙌
 
 it comes with some innovations and tech
 
+### aalex
+
 
 ## skills
 - connecting projects
