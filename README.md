@@ -6,7 +6,7 @@ an app that can interpret queries and classify financial data
 
 It is an effective and efficient way to keep updated with financial information 
 
-### Crypto Price Tracker
+### CPT
  platform that tracks all of crypto prices movement in real time.
 
 powerful way to keep track of all updates in cryptocurrency
