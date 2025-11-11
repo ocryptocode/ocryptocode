@@ -24,6 +24,8 @@ an ecosystem of Crypto making many deals and events 🙌
 
 it comes with some innovations and tech
 
+all these projects are funded by vortex 
+
 ### aalex
 my Jarvis 
 
