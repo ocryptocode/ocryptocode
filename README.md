@@ -27,7 +27,7 @@ it comes with some innovations and tech
 all these projects are funded by vortex 
 
 ### aalex
-my Jarvis 
+my Jarvis system, managing every project and every bot I create.
 
 
 ## skills
