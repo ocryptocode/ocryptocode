@@ -27,14 +27,13 @@ it comes with some innovations and tech
 all these projects are funded by vortex 
 
 ### aalex
-my Jarvis system, managing every project and every bot I create.
-
+my Jarvis system, managing every project and every bot I create
 
 ## skills
 - connecting projects
 - adding value
 - growing audience
 - making platforms and teams
-
+- making personal brands
 
 see you soon
