@@ -26,6 +26,8 @@ it comes with some innovations and tech
 
 all these projects are funded by vortex 
 
+we make rounds and events where we welcome every sponsor and every fund
+
 ### aalex
 my Jarvis system, managing every project and every bot I create
 
