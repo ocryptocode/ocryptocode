@@ -31,7 +31,9 @@ we make rounds and events where we welcome every sponsor and every fund
 ### aalex
 my Jarvis system, managing every project and every bot I create
 
-## skills
+
+
+## skills and qualifications 
 - connecting projects
 - adding value
 - growing audience
