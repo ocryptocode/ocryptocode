@@ -9,7 +9,7 @@ It is an effective and efficient way to keep updated with financial information
 ### CPT
  platform that tracks all of crypto prices movement in real time.
 
-powerful way to keep track of all updates in cryptocurrency
+powerful way to keep track of all updates in cryptocurrency markets
 
 Here is the link to the repository : https://github.com/ocryptocode/crypto-price-tracker.
 
