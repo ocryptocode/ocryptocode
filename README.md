@@ -11,7 +11,7 @@ It is an effective and efficient way to keep updated with financial information
 
 powerful way to keep track of all updates in cryptocurrency markets
 
-Here is the link to the repository : https://github.com/ocryptocode/crypto-price-tracker.
+ https://github.com/ocryptocode/crypto-price-tracker.
 
 ### Design templates
 usable design templates for your projects
@@ -27,6 +27,8 @@ it comes with some innovations and tech
 all these projects are funded by vortex 
 
 we make rounds and events where we welcome every sponsor and every fund
+
+we are also making some crypto coins in VORTEX
 
 ### aalex
 my Jarvis system, managing every project and every bot I create
