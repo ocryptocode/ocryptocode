@@ -14,8 +14,6 @@ powerful way to keep track of all updates in cryptocurrency markets
  https://github.com/ocryptocode/crypto-price-tracker.
 
 ### Design templates
-usable design templates for your projects
-
 https://github.com/Design-Templates
 
 ### VORTEX
