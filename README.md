@@ -11,6 +11,8 @@ It is an effective and efficient way to keep updated with financial information
 
 powerful way to keep track of all updates in cryptocurrency markets
 
+it's a tool that can be used on all your social 
+
 
  https://github.com/ocryptocode/crypto-price-tracker.
 
