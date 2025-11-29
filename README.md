@@ -2,6 +2,8 @@ I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
 
 I am building a coding legacy, something that reminds me of my passion.
 
+I am using my repos as POW
+
 ### VORTEX
 ### PPH
 an app that can interpret queries and classify financial data
