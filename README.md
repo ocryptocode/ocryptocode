@@ -42,6 +42,7 @@ this is the ultimate ecosystem
 ### aalex
 my Jarvis system, managing every project and every bot I create
 
+an infrastructure that manages educate
 
 
 ## skills and qualifications 
