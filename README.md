@@ -1,4 +1,4 @@
-I am CEO of https://x.com/vortex_capital_ , ambassador , community builder
+I am CEO villager of https://x.com/vortex_capital_ , ambassador , community builder
 
 I am building a coding legacy, something that reminds me of my passion.
 
