@@ -4,6 +4,7 @@ I am building a coding legacy, something that reminds me of my passion.
 
 I am using my repos as POW, and all my projects are united by one ecosystem
 
+This is also my resume
 
 ### VORTEX
 ### PPH
