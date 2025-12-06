@@ -1,58 +1,140 @@
-I am CEO villager of https://x.com/vortex_capital_ , ambassador , community builder
+# ocryptocode — VORTEX ecosystem
 
-I am building a coding legacy, something that reminds me of my passion.
+I am the CEO villager of https://x.com/vortex_capital_, ambassador, and community builder.
 
-I am using my repos as POW, and all my projects are united by one ecosystem
+I build a coding legacy — projects that reflect my passion. These repositories act as proof-of-work (POW) and are part of one unified ecosystem.
 
-This is also my resume
+This repository also serves as my resume.
+
+---
+
+## Projects
 
 ### VORTEX
-### PPH
-an app that can interpret queries and classify financial data
+An ecosystem of crypto projects, deals, and events. Funded rounds, sponsors welcomed — we also create new coins inside VORTEX.
 
-It is an effective and efficient way to keep updated with financial information 
+### PPH
+An app that interprets queries and classifies financial data. An efficient way to stay updated with financial information.
 
 ### CPT
- platform that tracks all of crypto prices movement in real time.
+A platform that tracks cryptocurrency price movements in real time. Powerful for monitoring market updates and sharing on social channels.
 
-powerful way to keep track of all updates in cryptocurrency markets
+Repo: https://github.com/ocryptocode/crypto-price-tracker
 
-it's a tool that can be used on all your social 
+---
 
+## Design templates
+A collection of design and UI templates you can reuse across projects (landing pages, components, social assets, email templates, etc.)
 
- https://github.com/ocryptocode/crypto-price-tracker.
+- Canonical folder: `/templates/`
+- Example template types: HTML/CSS, React components, Figma exports, social images (PNG/SVG), email templates.
 
-### Design templates
-https://github.com/Design-Templates
+How to add a template:
+1. Create a file under `/templates/`, e.g. `/templates/landing-basic.html` or `/templates/twitter-card.svg`.
+2. Add usage notes inside the template file or include a small markdown file alongside it, e.g. `/templates/landing-basic/README.md`.
+3. Commit and push.
 
-### VORTEX
+Example:
+```bash
+mkdir -p templates/landing-basic
+echo "<!-- Landing template -->" > templates/landing-basic/index.html
+git add templates/landing-basic
+git commit -m "Add landing-basic template"
+git push origin main
+```
 
-an ecosystem of Crypto making many deals and events 🙌 
+Tip: Keep templates small, documented, and include a preview image (preview.png) inside the template folder.
 
-it comes with some innovations and tech
+---
 
-all these projects are funded by vortex 
+## Achievements
+A curated list of milestones, launches, events, and recognitions related to VORTEX and my work. Use this to show progress, wins, and credibility.
 
-we make rounds and events where we welcome every sponsor and every fund
+Recommended storage approaches:
+- Simple: Add a markdown list inside README (below).
+- Structured: Create `/achievements/` with one file per achievement (`YYYY-MM-DD-title.md`) and an index (`/ACHIEVEMENTS.md`) that lists them.
+- Metadata: Use YAML frontmatter inside each achievement file to standardize date, links, and tags.
 
+Example achievement item (in README):
+- 2025-04-20 — Launched CPT v1.0 — Public alpha, 5k users in first week. (link)
+- 2024-12-01 — Vortex Seed Round — Raised $X from sponsors. (link)
 
-we are also making some crypto coins in VORTEX
+Example achievement file structure (`/achievements/2025-04-20-launched-cpt.md`):
+```markdown
+---
+title: "Launched CPT v1.0"
+date: "2025-04-20"
+links:
+  - url: "https://github.com/ocryptocode/crypto-price-tracker"
+    label: "Repo"
+tags:
+  - launch
+  - product
+---
 
-this is the ultimate ecosystem 
+Public alpha, 5k users in first week. Short description of the milestone and significance.
+```
 
-### aalex
-my Jarvis system, managing every project and every bot I create
+Badge example (use shields.io):
+```markdown
+![Launched](https://img.shields.io/badge/achievement-Launched-brightgreen)
+```
 
-an infrastructure that manages educate
+How to add an achievement:
+```bash
+mkdir -p achievements
+cat > achievements/2025-12-06-some-achievement.md <<'EOF'
+---
+title: "Example Achievement"
+date: "2025-12-06"
+links:
+  - url: "https://example.com"
+    label: "Details"
+tags:
+  - example
+---
+Short description about the achievement and any relevant links.
+EOF
 
+git add achievements
+git commit -m "Add achievement: Example Achievement"
+git push origin main
+```
 
-## skills and qualifications 
-- connecting projects
-- adding value
-- growing audience
-- making platforms and teams
-- making personal brands
+---
 
-## POW
+## Example README snippet — Templates & Achievements (copy/paste)
+Add this small section anywhere in your README to surface both features:
 
-see you soon
+### Templates
+- Browse templates: /templates
+- To use: clone repo and copy the template you need.
+
+### Achievements
+- Browse achievements: /achievements or update this README's Achievements section.
+- Add a new achievement file and link to public posts/releases.
+
+---
+
+## Repo structure (recommended)
+- /templates/            # design templates, grouped by type
+- /achievements/         # one file per achievement with metadata
+- /projects/             # project-specific code if you want to centralize
+- README.md              # this file — high level overview and links
+
+---
+
+## Tips & next steps
+- Keep templates small, clearly named, and include a README or usage notes for each template.
+- Use consistent date-based filenames for achievements so they sort chronologically.
+- Consider using GitHub Releases or the repository's Projects/Discussions to highlight important launches and link back to achievements.
+- If you want visual badges for major achievements, use shields.io and include them at the top of README.
+
+---
+
+If you'd like, I can:
+- create `/templates/` and add 2 example templates (HTML + social image preview),
+- create `/achievements/` and add one sample achievement file,
+- open a branch and prepare a PR with the README changes.
+
+Tell me whether you want me to push files and which branch (or I can open a PR against `main`).
