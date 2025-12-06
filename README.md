@@ -53,4 +53,6 @@ an infrastructure that manages educate
 - making platforms and teams
 - making personal brands
 
+## POW
+
 see you soon
