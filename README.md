@@ -10,6 +10,9 @@ This repository also serves as my resume, it's the beginning of everything
 
 
 
+
+
+
 ## Projects
 
 ### VORTEX
