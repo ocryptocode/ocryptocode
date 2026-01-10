@@ -30,6 +30,8 @@ A platform that tracks cryptocurrency price movements in real time. Powerful for
 Repo: https://github.com/ocryptocode/crypto-price-tracker
 
 ### aalex
+
+https://github.com/ocryptocode/aalex 
 ---
 
 ## Design templates
