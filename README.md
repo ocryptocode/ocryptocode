@@ -2,6 +2,8 @@
 
 Oussama Rafouk
 
+
+
 I am the CEO villager of https://x.com/vortex_capital_, ambassador, and community builder
 
 I build a coding legacy — projects that reflect my passion. These repositories act as proof-of-work (POW) and are part of one unified ecosystem
