@@ -32,7 +32,7 @@ A platform that tracks cryptocurrency price movements in real time. Powerful for
 Repo: https://github.com/ocryptocode/crypto-price-tracker
 
 ### aalex
-An artificial intelligence 
+An artificial intelligence that helps with everything
 
 https://github.com/ocryptocode/aalex 
 ---
