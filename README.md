@@ -1,4 +1,4 @@
-# ocryptocode — VORTEX ecosystem
+# ocryptocode
 
 Oussama Rafouk
 
