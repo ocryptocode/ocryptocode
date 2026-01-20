@@ -15,9 +15,6 @@ https://x.com/Oussama_buildin
 
 
 
-
-
-
 ## Projects Showcase 
 
 ### VORTEX
