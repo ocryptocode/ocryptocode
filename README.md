@@ -40,23 +40,6 @@ A collection of design and UI templates you can reuse across projects (landing p
 
 - Canonical folder: `/templates/`
 - Example template types: HTML/CSS, React components, Figma exports, social images (PNG/SVG), email templates.
-
-How to add a template:
-1. Create a file under `/templates/`, e.g. `/templates/landing-basic.html` or `/templates/twitter-card.svg`.
-2. Add usage notes inside the template file or include a small markdown file alongside it, e.g. `/templates/landing-basic/README.md`.
-3. Commit and push.
-
-Example:
-```bash
-mkdir -p templates/landing-basic
-echo "<!-- Landing template -->" > templates/landing-basic/index.html
-git add templates/landing-basic
-git commit -m "Add landing-basic template"
-git push origin main
-```
-
-Tip: Keep templates small, documented, and include a preview image (preview.png) inside the template folder.
-
 ---
 
 ## Achievements
