@@ -3,7 +3,7 @@
 
 
 
-I am the CEO villager of https://x.com/vortex_capital_ , ambassador, and community builder..
+I am the CEO- villager of https://x.com/vortex_capital_ , ambassador, and community builder..
 
 
 
