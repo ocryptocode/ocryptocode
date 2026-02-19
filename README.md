@@ -3,11 +3,13 @@
 
 
 
-I am the CEO- villager of https://x.com/vortex_capital_ , ambassador, and community builder..
+I am the CEO- villager of https://x.com/vortex_capital_ , ambassador, and community builder
+
+I have many names and many projects
 
 
 
-I build a coding legacy — projects that reflect my passion. These repositories act as proof-of-work (POW) and are part of one unified ecosystem
+I build a coding and a project building legacy — projects that reflect my passion. These repositories act as proof-of-work (POW) and are part of one unified ecosystem
 
 This repository also serves as my resume, it's the beginning of everything 
 
