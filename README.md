@@ -22,6 +22,8 @@ https://x.com/Oussama_buildin
 ### VORTEX
 An ecosystem of crypto projects, deals, and events. Funded rounds, sponsors welcomed — we also create new coins inside VORTEX.
 
+roadmap 2.0
+
 ### PPH
 An app that interprets queries and classifies financial data. An efficient way to stay updated with financial information.
 
