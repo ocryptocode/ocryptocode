@@ -9,7 +9,9 @@ I am the ceo of https://x.com/vortex_capital_ , ambassador, and community builde
 
 
 
-I build a coding and a project building legacy. that reflects my passion. These repositories act as proof-of-work (POW) and are part of one unified ecosystem
+
+
+I build a coding and a project building legacy. that reflects my passion. These repositories act as proof-of-work (POW)
 
 This repository also serves as my resume
 
