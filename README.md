@@ -58,7 +58,7 @@ Recommended storage approaches:
 
 Example achievement item (in README):
 - 2025-04-20 — Launched CPT v1.0 — Public alpha, 5k users in first week. (link)
-- 2024-12-01 — Vortex Seed Round — Raised $X from sponsors. (link)
+- 2024-12-01 — Vortex Seed Round 
 
 Example achievement file structure (`/achievements/2025-04-20-launched-cpt.md`):
 ```markdown
