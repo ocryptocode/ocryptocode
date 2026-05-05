@@ -1,11 +1,7 @@
 # ocryptocode
 
 
-
-
-
-
-The ceo of https://x.com/vortex_capital_ , ambassador, and community builder
+ceo of https://x.com/vortex_capital_ , ambassador, and community builder
 
 
 
