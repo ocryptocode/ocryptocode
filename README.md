@@ -25,8 +25,10 @@ roadmap 2.0
 ### PPH
 An app that interprets queries and classifies financial data. An efficient way to stay updated with financial information.
 
+
 ### CPT
 A platform that tracks cryptocurrency price movements in real time. Powerful for monitoring market updates and sharing on social channels.
+
 
 Repo: https://github.com/ocryptocode/crypto-price-tracker
 
