@@ -15,7 +15,6 @@ This repository is also my resume
 https://x.com/Oussama_buildin 
 
 
-
 ## Projects Showcase 
 
 ### VORTEX
