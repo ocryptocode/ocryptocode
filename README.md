@@ -1,10 +1,6 @@
 # ocryptocode
 
-ceo of https://x.com/vortex_capital_ , ambassador, and community builder
-
-This repository is also my resume
-
-
+https://x.com/vortex_capital_
 
 
 https://x.com/Oussama_buildin 
