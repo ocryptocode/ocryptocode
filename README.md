@@ -6,8 +6,6 @@ https://x.com/vortex_capital_
 https://x.com/Oussama_buildin 
 
 
-## Projects
-
 ### VORTEX
 An ecosystem of crypto projects, deals, and events. Funded rounds, sponsors welcomed — we also create new coins inside VORTEX.
 
