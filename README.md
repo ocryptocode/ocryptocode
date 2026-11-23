@@ -2,7 +2,6 @@
 
 https://x.com/vortex_capital_
 
-
 https://x.com/Oussama_buildin 
 
 
