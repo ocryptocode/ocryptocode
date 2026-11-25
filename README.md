@@ -1,4 +1,3 @@
-# ocryptocode
 
 https://x.com/vortex_capital_
 
